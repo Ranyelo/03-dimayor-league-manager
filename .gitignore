@@ -1,0 +1,6 @@
+# Java Stnd
+*.class
+out/
+bin/
+.idea/
+*.iml
